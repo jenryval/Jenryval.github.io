@@ -5,3 +5,7 @@ h2{
 .container{
     float: left;
 }
+
+.card{
+    margin: 60px;
+}
