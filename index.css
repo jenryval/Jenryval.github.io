@@ -3,7 +3,12 @@ h2{
 }
 
 .card-title{
-    font-size: xx-large;
+    font-size: 45px;
+    font-family: monospace;
+    font-weight: bolder;
+    color: lightcoral;
+    
+    
 }
 
 
@@ -30,4 +35,7 @@ img{
     max-width: 50%;
 }
 
+.fa{
+    color: lightcoral;
+}
 

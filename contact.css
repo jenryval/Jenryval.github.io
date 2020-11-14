@@ -7,8 +7,11 @@
 }
 
 #header{
-    margin: 20px;
-    font-size: xx-large;
+    margin: 10px;
+    font-size: 45px;
+    font-family: monospace;
+    font-weight: bolder;
+    color: lightcoral;
 }
 
 h2{
@@ -17,4 +20,14 @@ h2{
 
 #button{
     margin: 10px;
+
+}
+
+.fa{
+    color: lightcoral;
+}
+
+.btn-primary{
+    background-color: lightcoral;
+    border: lightcoral;
 }
