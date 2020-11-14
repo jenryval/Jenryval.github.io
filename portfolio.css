@@ -3,9 +3,14 @@ h2{
 }
 
 .container{
-    float: left;
+    
+    
 }
 
 .card{
     margin: 60px;
+}
+
+img{
+    margin-bottom: 10px;
 }
