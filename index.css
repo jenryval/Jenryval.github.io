@@ -6,16 +6,22 @@ h2{
     font-size: xx-large;
 }
 
-
-.container{
-    margin: 50px;
-}
-
 #card-text{
   
-   
 }
 
 .card-body{
+    
+
+}
+
+#footer{
+    text-align: center;
+
+}
+
+.card{
+    margin-left: 40px;
+    margin-top: 30px;
 
 }
